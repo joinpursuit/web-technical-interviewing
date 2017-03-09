@@ -5,5 +5,7 @@ We'll be working on researching answers to some common general technical intervi
 
 ## Whiteboarding Problems
 1) on InterviewCake => recursive string permutations problem
+
 2) bestChange within the recursion folder
+
 3) binary search!
