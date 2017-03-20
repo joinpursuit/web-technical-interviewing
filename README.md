@@ -1,11 +1,10 @@
 # Technical Interviewing
+This repository will be a collection of general technical questions and whiteboarding problems for you to practice. We'll be building this out together!
 
-## General Technical Questions
-We'll be working on researching answers to some common general technical interview questions later in the afternoon.
+## Contributing
+- Add another solution
+- Add a description or explanation
+- Add another problem
+- Add another general topic for discussion with resources and links
 
-## Whiteboarding Problems
-1) on InterviewCake => recursive string permutations problem
-
-2) bestChange within the recursion folder
-
-3) binary search!
+Give yourself credit! - Link to your GitHub :)

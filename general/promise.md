@@ -4,6 +4,8 @@ Promises are becoming heavily entrenched in JavaScript. You need to be able to t
 ## Possible Questions
 * How do you construct a Promise?
 * Why are Promises useful?
+* How are Promises asynchronous?
+* How does the resolve and reject relate to `.then()` and `.catch()`?
 
 ## Resources
 * [Scotch.io](https://scotch.io/tutorials/javascript-promises-for-dummies)
